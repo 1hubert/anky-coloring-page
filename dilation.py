@@ -1,5 +1,5 @@
 from skimage.morphology import dilation
-from skimage.io import imread, imshow
+from skimage.io import imread
 import matplotlib.pyplot as plt
 import numpy as np
 from scipy.signal import convolve2d
